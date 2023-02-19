@@ -1,0 +1,22 @@
+insee_code;region_name;region_long_name
+1;GUA;Guadeloupe
+2;MAR;Martinique
+3;GUY;Guyane
+4;REU;La Reunion
+5;SPM;Saint Pierre et Miquelon
+6;MAY;Mayotte
+7;STB;Saint Barthelemy
+8;STM;Saint Martin
+11;IDF;Ile-de-France
+24;CVL;Centre-Val de Loire
+27;BFC;Bourgogne-Franche-Comte
+28;NOR;Normandie
+32;HDF;Hauts-de-France
+44;GES;Grand Est
+52;PDL;Pays de la Loire
+53;BRE;Bretagne
+75;NAQ;Nouvelle-Aquitaine
+76;OCC;Occitanie
+84;ARA;Auvergne-Rhone-Alpes
+93;PAC;Provence-Alpes-Cote d'Azur
+94;COR;Corse
